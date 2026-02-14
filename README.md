@@ -2,6 +2,8 @@
 
 A comprehensive collection of 5 production-ready machine learning projects demonstrating expertise in classification, regression, time series forecasting, and deep learning.
 
+[Live Site](https://xristoskaradis40-lab.github.io/ata-science-portfolio/)
+
 **Author:** Christos  
 **Date:** February 2026  
 **Skill Level:** Advanced
