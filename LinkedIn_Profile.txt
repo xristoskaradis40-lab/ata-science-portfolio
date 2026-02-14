@@ -1,0 +1,120 @@
+═══════════════════════════════════════════════════════════════
+LINKEDIN PROFILE - CHRISTOS KARADIS
+Junior Data Analyst
+═══════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. HEADLINE (edit profile → Headline)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Junior Data Analyst | Python, Excel, ML Projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. ABOUT SECTION (edit profile → About)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Entry-level Data Analyst with hands-on experience in Python, Excel, and machine learning workflows.
+
+I've built 5 data projects covering classification, regression, and time series, focusing on clean data preparation and clear insights.
+
+Skills:
+• Python (basic), SQL (basic)
+• Excel, data cleaning
+• Intro ML workflows, model evaluation
+• Basic charts and reporting
+
+Portfolio: https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+
+Open to Junior Data Analyst roles in Athens or remote.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. EDUCATION (Add profile section → Education)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+School: Γυμνάσιο Νυχτερινό
+Degree: (αν έχεις, αλλιώς άδειασε)
+Field of study: (αν έχεις, αλλιώς άδειασε)
+Dates: (αν θυμάσαι)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. PROJECTS (Add profile section → Projects)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROJECT 1:
+─────────
+Project name: Titanic Survival Classification
+Start date: Feb 2026
+End date: Feb 2026
+Description:
+Beginner-friendly classification project using passenger data. Built using Python and machine learning libraries. Achieved 79.21% accuracy.
+
+Project URL: https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+
+PROJECT 2:
+─────────
+Project name: House Prices Regression
+Start date: Feb 2026
+End date: Feb 2026
+Description:
+Entry-level regression project to predict house prices from structural features. Implemented using XGBoost. R2 score: 0.8989.
+
+Project URL: https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+
+PROJECT 3:
+─────────
+Project name: Customer Churn Classification
+Start date: Feb 2026
+End date: Feb 2026
+Description:
+Churn prediction with simple business impact analysis. Used Random Forest classifier to identify at-risk customers. ROC-AUC: 92.5%.
+
+Project URL: https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SKILLS (Add profile section → Skills)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Add these skills (LinkedIn will suggest endorsements):
+
+• Python
+• Excel
+• Data Analysis
+• Data Cleaning
+• Machine Learning
+• SQL
+• Data Visualization
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. CONTACT INFO (edit profile → Contact Info)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Email: xristoskaradis40@gmail.com
+Website:
+  - Type: Portfolio
+  - URL: https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. FEATURED (Add profile section → Featured → Add link)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Title: Data Science Portfolio
+URL: https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+Description: 5 machine learning projects covering classification, regression, and time series forecasting.
+
+═══════════════════════════════════════════════════════════════
+ΟΔΗΓΙΕΣ:
+═══════════════════════════════════════════════════════════════
+
+1. Μπες στο LinkedIn → Edit Profile
+2. Copy-paste κάθε section από πάνω
+3. Save changes
+4. Βάλε professional φωτογραφία αν έχεις
+5. Ξεκίνα να κάνεις connect με recruiters/Data Analysts
+
+Μόλις τελειώσεις, ξεκίνα αιτήσεις:
+- Kariera.gr
+- Indeed.gr
+- LinkedIn Jobs
+- Skywalker.gr
+
+Καλή επιτυχία!
