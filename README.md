@@ -6,6 +6,8 @@ A comprehensive collection of 5 production-ready machine learning projects demon
 **Date:** February 2026  
 **Skill Level:** Advanced
 
+**Live Site:** https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+
 ---
 
 ## 🎯 Portfolio Overview
@@ -43,8 +45,8 @@ portfolio/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/data-science-portfolio.git
-cd portfolio
+git clone https://github.com/xristoskaradis40-lab/ata-science-portfolio.git
+cd ata-science-portfolio
 
 # Create virtual environment
 python -m venv venv
