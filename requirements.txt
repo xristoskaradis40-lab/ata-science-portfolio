@@ -1,0 +1,17 @@
+# Python 3.14.3
+# Data Science Portfolio - Dependencies
+
+# Data Processing & Analysis
+pandas>=3.0.0
+numpy>=2.4.2
+
+# Machine Learning
+scikit-learn>=1.8.0
+xgboost>=latest
+
+# Visualization
+matplotlib>=3.10.8
+seaborn>=0.13.2
+
+# Additional utilities
+scipy>=1.13.0

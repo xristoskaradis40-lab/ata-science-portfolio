@@ -1,0 +1,214 @@
+                                                                                                                                                                                        <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Christos | Data Science Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-shape bg-shape--one"></div>
+  <div class="bg-shape bg-shape--two"></div>
+
+  <header class="site-header">
+    <nav class="nav">
+      <div class="logo">CS</div>
+      <div class="nav-links">
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#metrics">Metrics</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+
+    <section class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">Data Science Portfolio</p>
+        <h1>Christos</h1>
+        <p class="role">Data Scientist focused on applied ML, business impact, and clear storytelling.</p>
+        <p class="summary">
+          Five production-ready machine learning projects across classification, regression,
+          time series forecasting, and neural networks. End-to-end work from data cleaning
+          to evaluation and insights.
+        </p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#projects">View Projects</a>
+          <a class="btn ghost" href="portfolio/README.md">Open Full README</a>
+        </div>
+      </div>
+      <div class="hero-card">
+        <div class="hero-card__title">Portfolio Snapshot</div>
+        <ul>
+          <li><span>Projects</span><strong>5</strong></li>
+          <li><span>Best Classification</span><strong>79.21% Accuracy</strong></li>
+          <li><span>Best Regression</span><strong>R2 0.8989</strong></li>
+          <li><span>Best ROC-AUC</span><strong>92.5%</strong></li>
+          <li><span>Best Forecast RMSE</span><strong>0.1060</strong></li>
+        </ul>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <section id="projects" class="section">
+      <div class="section-header">
+        <h2>Projects</h2>
+        <p>Each project includes data processing, modeling, evaluation, and business insight.</p>
+      </div>
+
+      <div class="project-grid">
+        <article class="card">
+          <h3>Titanic Survival Classification</h3>
+          <p>Binary classification using demographic and ticketing features.</p>
+          <div class="card-meta">
+            <span>XGBoost</span>
+            <span>Accuracy 79.21%</span>
+          </div>
+          <div class="card-actions">
+            <a href="01_titanic_classification/README.md">Case Study</a>
+            <a href="01_titanic_classification/titanic_project.py">Code</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3>House Prices Regression</h3>
+          <p>Predicting sale prices from structural features and engineered signals.</p>
+          <div class="card-meta">
+            <span>XGBoost (Tuned)</span>
+            <span>R2 0.8989</span>
+          </div>
+          <div class="card-actions">
+            <a href="02_house_prices_regression/README.md">Case Study</a>
+            <a href="02_house_prices_regression/house_prices_project.py">Code</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3>Customer Churn</h3>
+          <p>Churn prediction with ROI analysis for retention strategy.</p>
+          <div class="card-meta">
+            <span>Random Forest</span>
+            <span>ROC-AUC 92.5%</span>
+          </div>
+          <div class="card-actions">
+            <a href="03_customer_churn/README.md">Case Study</a>
+            <a href="03_customer_churn/customer_churn_project.py">Code</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3>Stock Price Forecasting</h3>
+          <p>Time series forecasting with trend decomposition and signals.</p>
+          <div class="card-meta">
+            <span>Exp. Smoothing</span>
+            <span>RMSE 0.1060</span>
+          </div>
+          <div class="card-actions">
+            <a href="04_stock_forecasting/README.md">Case Study</a>
+            <a href="04_stock_forecasting/stock_time_series_project.py">Code</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3>Neural Networks</h3>
+          <p>MLP-based survival prediction with regularization and early stopping.</p>
+          <div class="card-meta">
+            <span>MLPClassifier</span>
+            <span>Accuracy 78.14%</span>
+          </div>
+          <div class="card-actions">
+            <a href="05_neural_networks/README.md">Case Study</a>
+            <a href="05_neural_networks/neural_network_project.py">Code</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="skills" class="section">
+      <div class="section-header">
+        <h2>Skills</h2>
+        <p>Tools used across the portfolio and production-ready workflows.</p>
+      </div>
+      <div class="skills-grid">
+        <div class="skill-card">
+          <h4>Languages</h4>
+          <p>Python, SQL fundamentals</p>
+        </div>
+        <div class="skill-card">
+          <h4>Data</h4>
+          <p>Pandas, NumPy, feature engineering</p>
+        </div>
+        <div class="skill-card">
+          <h4>Modeling</h4>
+          <p>Scikit-learn, XGBoost, model selection</p>
+        </div>
+        <div class="skill-card">
+          <h4>Visualization</h4>
+          <p>Matplotlib, Seaborn, storytelling</p>
+        </div>
+        <div class="skill-card">
+          <h4>Time Series</h4>
+          <p>Decomposition, autocorrelation, smoothing</p>
+        </div>
+        <div class="skill-card">
+          <h4>Deep Learning</h4>
+          <p>MLP architectures, regularization, scaling</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="metrics" class="section metrics">
+      <div class="section-header">
+        <h2>Impact Metrics</h2>
+        <p>Performance highlights that map to business outcomes.</p>
+      </div>
+      <div class="metrics-grid">
+        <div class="metric">
+          <div class="metric-value">92.5%</div>
+          <div class="metric-label">Best ROC-AUC</div>
+          <p>Customer churn classification with ROI focus.</p>
+        </div>
+        <div class="metric">
+          <div class="metric-value">0.8989</div>
+          <div class="metric-label">Best R2</div>
+          <p>House price regression with tuned XGBoost.</p>
+        </div>
+        <div class="metric">
+          <div class="metric-value">0.1060</div>
+          <div class="metric-label">Best RMSE</div>
+          <p>Stock forecasting using exponential smoothing.</p>
+        </div>
+        <div class="metric">
+          <div class="metric-value">107,840</div>
+          <div class="metric-label">Potential ROI (EUR)</div>
+          <p>Estimated impact from churn prevention.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section contact">
+      <div class="section-header">
+        <h2>Contact</h2>
+        <p>Ready for interviews and technical challenges.</p>
+      </div>
+      <div class="contact-card">
+        <div>
+          <p class="contact-title">Let us talk about ML and business impact.</p>
+          <p class="contact-sub">xristoskaradis40@gmail.com</p>
+        </div>
+        <div class="contact-actions">
+          <a class="btn primary" href="mailto:xristoskaradis40@gmail.com">Email</a>
+          <a class="btn ghost" href="https://github.com/xristoskaradis40-lab/ata-science-portfolio">GitHub</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Christos. Data Science Portfolio. Built February 2026.</p>
+  </footer>
+</body>
+</html>
