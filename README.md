@@ -10,6 +10,12 @@ A comprehensive collection of 5 production-ready machine learning projects demon
 
 ---
 
+## 🌐 View Live Portfolio
+
+Open the live site here: https://xristoskaradis40-lab.github.io/ata-science-portfolio/
+
+---
+
 ## 🎯 Portfolio Overview
 
 This portfolio showcases end-to-end machine learning projects with real-world applications, from data preprocessing to model evaluation and business insights.
